@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01805454-8d73-4a55-9d1a-7972d359d896" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iAXJk7RpKT1auzvUGghIsfHYOF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="CreatePDFPredict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cse_575_proj1_minst" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CreatePDFPredict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DataInit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cse_575_proj1_minst" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataInit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cse_575_proj1_minst" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.CreatePDFPredict" />
+        <item itemvalue="Python.DataInit" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01805454-8d73-4a55-9d1a-7972d359d896" name="Default Changelist" comment="" />
+      <created>1601351299167</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601351299167</updated>
+      <workItem from="1601351300330" duration="2086000" />
+      <workItem from="1601355870215" duration="707000" />
+      <workItem from="1601357364039" duration="23128000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="394" y="109" key="#Inspections" timestamp="1601372641936">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="394" y="109" key="#Inspections/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601372641936" />
+    <state x="-877" y="-871" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601355919794">
+      <screen x="-1253" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-877" y="-871" key="#com.intellij.execution.impl.EditConfigurationsDialog/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601355919794" />
+    <state width="913" height="307" key="GridCell.Tab.0.bottom" timestamp="1601403963638">
+      <screen x="-1253" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="307" key="GridCell.Tab.0.bottom/667.-1057.1920.1012/0.23.1440.877/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601371268193" />
+    <state width="913" height="307" key="GridCell.Tab.0.bottom/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601403963638" />
+    <state width="913" height="307" key="GridCell.Tab.0.center" timestamp="1601403963637">
+      <screen x="-1253" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="307" key="GridCell.Tab.0.center/667.-1057.1920.1012/0.23.1440.877/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601371268192" />
+    <state width="913" height="307" key="GridCell.Tab.0.center/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601403963637" />
+    <state width="913" height="307" key="GridCell.Tab.0.left" timestamp="1601403963637">
+      <screen x="-1253" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="307" key="GridCell.Tab.0.left/667.-1057.1920.1012/0.23.1440.877/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601371268192" />
+    <state width="913" height="307" key="GridCell.Tab.0.left/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601403963637" />
+    <state width="913" height="307" key="GridCell.Tab.0.right" timestamp="1601403963638">
+      <screen x="-1253" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="307" key="GridCell.Tab.0.right/667.-1057.1920.1012/0.23.1440.877/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601371268193" />
+    <state width="913" height="307" key="GridCell.Tab.0.right/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601403963638" />
+    <state x="-832" y="-894" key="SettingsEditor" timestamp="1601355856213">
+      <screen x="-1253" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-832" y="-894" key="SettingsEditor/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601355856213" />
+    <state x="-662" y="-701" key="com.intellij.ide.util.TipDialog" timestamp="1601355892106">
+      <screen x="-1253" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-662" y="-701" key="com.intellij.ide.util.TipDialog/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601355892106" />
+    <state x="-699" y="-936" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601397959944">
+      <screen x="-1253" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="1221" y="-941" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/667.-1057.1920.1012/0.23.1440.877/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601360035843" />
+    <state x="-699" y="-936" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601397959944" />
+    <state x="1158" y="-1057" width="1396" height="988" key="dock-window-1" timestamp="1601397557851">
+      <screen x="667" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="11" y="23" width="1396" height="832" key="dock-window-1/0.23.1440.832@0.23.1440.832" timestamp="1601374618063" />
+    <state x="1011" y="-1057" width="1396" height="988" key="dock-window-1/667.-1057.1920.1012/0.23.1440.877/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601361078087" />
+    <state x="1158" y="-1057" width="1396" height="988" key="dock-window-1/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601397557851" />
+    <state x="249" y="72" width="1091" height="744" key="dock-window-2" timestamp="1601371523744">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="249" y="72" width="1091" height="744" key="dock-window-2/667.-1057.1920.1012/0.23.1440.877/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601362562017" />
+    <state x="249" y="72" width="1091" height="744" key="dock-window-2/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601371523744" />
+    <state x="766" y="-982" width="1475" height="875" key="dock-window-3" timestamp="1601398018826">
+      <screen x="667" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="667" y="-875" width="1475" height="875" maximized="true" key="dock-window-3/0.23.1440.832@0.23.1440.832" timestamp="1601374618064" />
+    <state x="766" y="-982" width="1475" height="875" key="dock-window-3/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601398018826" />
+    <state x="-729" y="-1057" width="1396" height="988" key="dock-window-4" timestamp="1601401276562">
+      <screen x="-1253" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-729" y="-1057" width="1396" height="988" key="dock-window-4/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601401276562" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cse_575_proj1_minst$CreatePDFPredict.coverage" NAME="CreatePDFPredict Coverage Results" MODIFIED="1601403196979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cse_575_proj1_minst$DataInit.coverage" NAME="DataInit Coverage Results" MODIFIED="1601401682866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cse_575_proj1_minst$main.coverage" NAME="main Coverage Results" MODIFIED="1601403963627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

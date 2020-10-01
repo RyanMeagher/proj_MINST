@@ -6,11 +6,10 @@ import numpy as np
 import pandas as pd
 import CreatePDFPredict
 
-
 df = pd.read_csv('train.csv')
 
 # create a dict and then add stats so that
-# d[digit#]=(train_data, train_lab, test_data, test_lab, pdf_variables, test_data_stats)
+# d[digit#]=(train_data , train_lab, test_data, test_lab, pdf_variables, test_data_stats)
 d = DataInit.createDictNumSplit(df)
 CreateStats.dictAddStats(d)
 
@@ -21,10 +20,16 @@ meanPredArr, stdPredArr = CreatePDFPredict.mean_std_predict(d)
 # creates a list of lists where the position in the list corresponds to the num, and the num elements
 # [predict test data 0 ->[class, number of predictions, classification_rate]  ... for every individual numbers
 # test dataset
-meanPredictions, stdPredictions= CreatePDFPredict.predictNum(meanPredArr, stdPredArr)
+meanPredictions, stdPredictions = CreatePDFPredict.predictNum(meanPredArr, stdPredArr)
 
-print(meanPredictions[4])
-print(stdPredictions[4])
+# The method based on using just the probability distribution isnt very effect with all the numbers
+# Therefore we will go about using the MINST dataset another way.
 
+from sklearn.preprocessing import StandardScaler
+
+
+
+
+d
 
 

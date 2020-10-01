@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01805454-8d73-4a55-9d1a-7972d359d896" name="Default Changelist" comment="" />
+    <list default="true" id="01805454-8d73-4a55-9d1a-7972d359d896" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preprocess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SkLearnHelper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paramGrid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CreateStats.py" beforeDir="false" afterPath="$PROJECT_DIR$/CreateStats.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataInit.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataInit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deploy.py" beforeDir="false" afterPath="$PROJECT_DIR$/ML.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iAXJk7RpKT1auzvUGghIsfHYOF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +36,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -30,29 +45,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="CreatePDFPredict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="cse_575_proj1_minst" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CreatePDFPredict.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.ML">
     <configuration name="DataInit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cse_575_proj1_minst" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,7 +68,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ML" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cse_575_proj1_minst" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,7 +81,73 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Preprocess" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cse_575_proj1_minst" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Preprocess.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SkLearnHelper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cse_575_proj1_minst" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SkLearnHelper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="paramGrid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cse_575_proj1_minst" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/paramGrid.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,8 +158,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.CreatePDFPredict" />
+        <item itemvalue="Python.ML" />
+        <item itemvalue="Python.Preprocess" />
+        <item itemvalue="Python.SkLearnHelper" />
+        <item itemvalue="Python.paramGrid" />
         <item itemvalue="Python.DataInit" />
       </list>
     </recent_temporary>
@@ -117,7 +178,7 @@
       <updated>1601351299167</updated>
       <workItem from="1601351300330" duration="2086000" />
       <workItem from="1601355870215" duration="707000" />
-      <workItem from="1601357364039" duration="23128000" />
+      <workItem from="1601357364039" duration="59446000" />
     </task>
     <servers />
   </component>
@@ -133,26 +194,34 @@
       <screen x="-1253" y="-1057" width="1920" height="1057" />
     </state>
     <state x="-877" y="-871" key="#com.intellij.execution.impl.EditConfigurationsDialog/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601355919794" />
-    <state width="913" height="307" key="GridCell.Tab.0.bottom" timestamp="1601403963638">
-      <screen x="-1253" y="-1057" width="1920" height="1057" />
+    <state width="1571" height="256" key="GridCell.Tab.0.bottom" timestamp="1601529236913">
+      <screen x="0" y="23" width="1440" height="832" />
     </state>
+    <state width="1571" height="256" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1601529236913" />
     <state width="1398" height="307" key="GridCell.Tab.0.bottom/667.-1057.1920.1012/0.23.1440.877/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601371268193" />
-    <state width="913" height="307" key="GridCell.Tab.0.bottom/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601403963638" />
-    <state width="913" height="307" key="GridCell.Tab.0.center" timestamp="1601403963637">
-      <screen x="-1253" y="-1057" width="1920" height="1057" />
+    <state width="1571" height="353" key="GridCell.Tab.0.bottom/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601505860879" />
+    <state width="1571" height="256" key="GridCell.Tab.0.bottom/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@0.23.1440.832" timestamp="1601521430736" />
+    <state width="1571" height="256" key="GridCell.Tab.0.center" timestamp="1601529236912">
+      <screen x="0" y="23" width="1440" height="832" />
     </state>
+    <state width="1571" height="256" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1601529236912" />
     <state width="1398" height="307" key="GridCell.Tab.0.center/667.-1057.1920.1012/0.23.1440.877/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601371268192" />
-    <state width="913" height="307" key="GridCell.Tab.0.center/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601403963637" />
-    <state width="913" height="307" key="GridCell.Tab.0.left" timestamp="1601403963637">
-      <screen x="-1253" y="-1057" width="1920" height="1057" />
+    <state width="1571" height="353" key="GridCell.Tab.0.center/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601505860878" />
+    <state width="1571" height="256" key="GridCell.Tab.0.center/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@0.23.1440.832" timestamp="1601521430734" />
+    <state width="1571" height="256" key="GridCell.Tab.0.left" timestamp="1601529236912">
+      <screen x="0" y="23" width="1440" height="832" />
     </state>
+    <state width="1571" height="256" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1601529236912" />
     <state width="1398" height="307" key="GridCell.Tab.0.left/667.-1057.1920.1012/0.23.1440.877/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601371268192" />
-    <state width="913" height="307" key="GridCell.Tab.0.left/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601403963637" />
-    <state width="913" height="307" key="GridCell.Tab.0.right" timestamp="1601403963638">
-      <screen x="-1253" y="-1057" width="1920" height="1057" />
+    <state width="1571" height="353" key="GridCell.Tab.0.left/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601505860877" />
+    <state width="1571" height="256" key="GridCell.Tab.0.left/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@0.23.1440.832" timestamp="1601521430734" />
+    <state width="1571" height="256" key="GridCell.Tab.0.right" timestamp="1601529236912">
+      <screen x="0" y="23" width="1440" height="832" />
     </state>
+    <state width="1571" height="256" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1601529236912" />
     <state width="1398" height="307" key="GridCell.Tab.0.right/667.-1057.1920.1012/0.23.1440.877/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601371268193" />
-    <state width="913" height="307" key="GridCell.Tab.0.right/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601403963638" />
+    <state width="1571" height="353" key="GridCell.Tab.0.right/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601505860878" />
+    <state width="1571" height="256" key="GridCell.Tab.0.right/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@0.23.1440.832" timestamp="1601521430735" />
     <state x="-832" y="-894" key="SettingsEditor" timestamp="1601355856213">
       <screen x="-1253" y="-1057" width="1920" height="1057" />
     </state>
@@ -166,12 +235,20 @@
     </state>
     <state x="1221" y="-941" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/667.-1057.1920.1012/0.23.1440.877/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601360035843" />
     <state x="-699" y="-936" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601397959944" />
+    <state x="1253" y="-685" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601417266630">
+      <screen x="667" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="1253" y="-685" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601417266630" />
     <state x="1158" y="-1057" width="1396" height="988" key="dock-window-1" timestamp="1601397557851">
       <screen x="667" y="-1057" width="1920" height="1057" />
     </state>
     <state x="11" y="23" width="1396" height="832" key="dock-window-1/0.23.1440.832@0.23.1440.832" timestamp="1601374618063" />
     <state x="1011" y="-1057" width="1396" height="988" key="dock-window-1/667.-1057.1920.1012/0.23.1440.877/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601361078087" />
     <state x="1158" y="-1057" width="1396" height="988" key="dock-window-1/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601397557851" />
+    <state x="152" y="23" width="1416" height="832" key="dock-window-10" timestamp="1601523893206">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="152" y="23" width="1416" height="832" key="dock-window-10/0.23.1440.832@0.23.1440.832" timestamp="1601523893206" />
     <state x="249" y="72" width="1091" height="744" key="dock-window-2" timestamp="1601371523744">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
@@ -186,10 +263,46 @@
       <screen x="-1253" y="-1057" width="1920" height="1057" />
     </state>
     <state x="-729" y="-1057" width="1396" height="988" key="dock-window-4/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601401276562" />
+    <state x="837" y="-1057" width="1254" height="896" key="dock-window-5" timestamp="1601504740654">
+      <screen x="667" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="170" y="23" width="1254" height="832" key="dock-window-5/0.23.1440.832@0.23.1440.832" timestamp="1601501336399" />
+    <state x="837" y="-1057" width="1254" height="896" key="dock-window-5/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601504740654" />
+    <state x="1284" y="-936" width="1331" height="852" key="dock-window-6" timestamp="1601504840763">
+      <screen x="667" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="0" y="23" width="774" height="619" key="dock-window-6/0.23.1440.832@0.23.1440.832" timestamp="1601501336399" />
+    <state x="1284" y="-936" width="1331" height="852" key="dock-window-6/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601504840763" />
+    <state x="700" y="23" width="740" height="618" key="dock-window-7" timestamp="1601526993768">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="700" y="23" width="740" height="618" key="dock-window-7/0.23.1440.832@0.23.1440.832" timestamp="1601526993768" />
+    <state x="765" y="-959" width="958" height="747" key="dock-window-7/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601505849587" />
+    <state x="772" y="-988" width="958" height="747" key="dock-window-7/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@0.23.1440.832" timestamp="1601513819987" />
+    <state x="24" y="23" width="1416" height="832" key="dock-window-8" timestamp="1601521588781">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="24" y="23" width="1416" height="832" key="dock-window-8/0.23.1440.832@0.23.1440.832" timestamp="1601521588781" />
+    <state x="-888" y="-1025" width="1416" height="987" key="dock-window-8/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601505837027" />
+    <state x="1387" y="-1020" width="1416" height="987" key="dock-window-8/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@0.23.1440.832" timestamp="1601515851157" />
+    <state x="172" y="23" width="1416" height="832" key="dock-window-9" timestamp="1601523702164">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="172" y="23" width="1416" height="832" key="dock-window-9/0.23.1440.832@0.23.1440.832" timestamp="1601523702164" />
+    <state x="-1070" y="-1057" width="1416" height="987" key="dock-window-9/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@0.23.1440.832" timestamp="1601519145954" />
+    <state x="-615" y="-840" width="670" height="676" key="search.everywhere.popup" timestamp="1601505252744">
+      <screen x="-1253" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-615" y="-840" width="670" height="676" key="search.everywhere.popup/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601505252744" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cse_575_proj1_minst$CreateStats.coverage" NAME="CreateStats Coverage Results" MODIFIED="1601417342778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cse_575_proj1_minst$SkLearnHelper.coverage" NAME="SkLearnHelper Coverage Results" MODIFIED="1601523861705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cse_575_proj1_minst$ML.coverage" NAME="ML Coverage Results" MODIFIED="1601529236906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cse_575_proj1_minst$paramGrid.coverage" NAME="paramGrid Coverage Results" MODIFIED="1601521421047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/cse_575_proj1_minst$CreatePDFPredict.coverage" NAME="CreatePDFPredict Coverage Results" MODIFIED="1601403196979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/cse_575_proj1_minst$DataInit.coverage" NAME="DataInit Coverage Results" MODIFIED="1601401682866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/cse_575_proj1_minst$main.coverage" NAME="main Coverage Results" MODIFIED="1601403963627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cse_575_proj1_minst$DataInit.coverage" NAME="DataInit Coverage Results" MODIFIED="1601422362840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cse_575_proj1_minst$Preprocess.coverage" NAME="Preprocess Coverage Results" MODIFIED="1601528760430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cse_575_proj1_minst$main.coverage" NAME="main Coverage Results" MODIFIED="1601422017068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

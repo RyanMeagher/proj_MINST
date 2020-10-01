@@ -3,13 +3,21 @@ import pandas as pd
 
 
 
-
 def createNumDf(df, num):
     # from the dataframe containing all the digits 0-9 create a
     # dataframe containing pictures (1x784) of a single num
     #print (f'creating number {num} df')
 
     return df.loc[df['label'] == num]
+
+def SeperateNum(df, num):
+    # from the dataframe containing all the digits 0-9 create a
+    # dataframe containing pictures (1x784) of a single num
+    #print (f'creating number {num} df')
+
+    return df.loc[df['label'] == num] , df.loc[df['label'] != num]
+
+
 
 
 def splitData(df, splitPercent=0.75, seed=123):
@@ -38,5 +46,6 @@ def createDictNumSplit(df):
         dict_num_df[i] = splitData(dict_num_df[i], 0.75)
 
     return dict_num_df
+
 
 

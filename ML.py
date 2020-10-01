@@ -24,18 +24,11 @@ y = np.array(X.pop('label'))
 model = SelectFromModel(RandomForestClassifier().fit(X, y), prefit=True)
 X_new = pd.DataFrame(model.transform(X))
 
-numeric_var = [key for key in dict(X_new.dtypes)
-               if dict(X_new.dtypes)[key]
-               in ['float64', 'float32', 'int32', 'int64']]  # Numeric Variable
-
-cat_var = [key for key in dict(X_new.dtypes)
-           if dict(X_new.dtypes)[key] in ['object']]  # Categorical Varibles
-
 
 #pca = PCA(n_components=0.95, svd_solver='full').fit(X_new)
 #print(len(pca.explained_variance_ratio_))
 
-#preprocess(X_new, y, standardization=True, normalization=False)
+preprocess(X_new, y, standardization=True, normalization=False)
 
 # SkLearnHelper.fit_classifier_gridSearch(SkLearnHelper.zipped_clf, X, y)
 # X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33, random_state=42)

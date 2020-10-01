@@ -1,4 +1,5 @@
 from sklearn.base import BaseEstimator, TransformerMixin
+from sklearn.decomposition import PCA
 from sklearn.pipeline import FeatureUnion, make_pipeline, Pipeline
 from sklearn.preprocessing import OneHotEncoder, StandardScaler, MinMaxScaler, LabelBinarizer
 import numpy as np
@@ -30,7 +31,8 @@ def preprocess(X, y, standardization=False, normalization=False):
     if standardization:
         pipe = Pipeline([
             ("features", FeatureUnion([
-            ('numeric', make_pipeline(Columns(names=numeric_var), StandardScaler())),
+            ('numeric scaling', make_pipeline(Columns(names=numeric_var), StandardScaler())),
+            ('numeric feature reduction', make_pipeline(Columns(names=numeric_var), PCA(n_components=0.95, svd_solver='full'))),
             ('categorical', make_pipeline(Columns(names=cat_var), LabelBinarizer()))]))
         ])
     if normalization:

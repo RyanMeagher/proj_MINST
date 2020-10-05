@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01805454-8d73-4a55-9d1a-7972d359d896" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ML.py" beforeDir="false" afterPath="$PROJECT_DIR$/ML.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Preprocess.py" beforeDir="false" afterPath="$PROJECT_DIR$/Preprocess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ML.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Preprocess.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SkLearnHelper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paramGrid.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,29 +42,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ML">
-    <configuration name="DataInit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="cse_575_proj1_minst" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataInit.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.main">
     <configuration name="ML" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cse_575_proj1_minst" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,6 +109,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cse_575_proj1_minst" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="paramGrid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cse_575_proj1_minst" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.ML" />
         <item itemvalue="Python.Preprocess" />
         <item itemvalue="Python.SkLearnHelper" />
         <item itemvalue="Python.paramGrid" />
-        <item itemvalue="Python.DataInit" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +175,8 @@
       <updated>1601351299167</updated>
       <workItem from="1601351300330" duration="2086000" />
       <workItem from="1601355870215" duration="707000" />
-      <workItem from="1601357364039" duration="59983000" />
+      <workItem from="1601357364039" duration="94078000" />
+      <workItem from="1601918889800" duration="4815000" />
     </task>
     <servers />
   </component>
@@ -187,41 +192,46 @@
       <screen x="-1253" y="-1057" width="1920" height="1057" />
     </state>
     <state x="-877" y="-871" key="#com.intellij.execution.impl.EditConfigurationsDialog/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601355919794" />
-    <state width="1571" height="256" key="GridCell.Tab.0.bottom" timestamp="1601529897613">
+    <state width="1398" height="342" key="GridCell.Tab.0.bottom" timestamp="1601924792700">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state width="1571" height="256" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1601529897613" />
+    <state width="1398" height="342" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1601924792700" />
     <state width="1398" height="307" key="GridCell.Tab.0.bottom/667.-1057.1920.1012/0.23.1440.877/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601371268193" />
     <state width="1571" height="353" key="GridCell.Tab.0.bottom/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601505860879" />
-    <state width="1571" height="256" key="GridCell.Tab.0.bottom/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@0.23.1440.832" timestamp="1601521430736" />
-    <state width="1571" height="256" key="GridCell.Tab.0.center" timestamp="1601529897612">
+    <state width="1571" height="334" key="GridCell.Tab.0.bottom/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@0.23.1440.832" timestamp="1601606884460" />
+    <state width="1571" height="334" key="GridCell.Tab.0.bottom/667.-1057.1920.1057/0.23.1440.877/-1253.-1057.1920.1012@0.23.1440.877" timestamp="1601594845209" />
+    <state width="1398" height="342" key="GridCell.Tab.0.center" timestamp="1601924792699">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state width="1571" height="256" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1601529897612" />
+    <state width="1398" height="342" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1601924792699" />
     <state width="1398" height="307" key="GridCell.Tab.0.center/667.-1057.1920.1012/0.23.1440.877/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601371268192" />
     <state width="1571" height="353" key="GridCell.Tab.0.center/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601505860878" />
-    <state width="1571" height="256" key="GridCell.Tab.0.center/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@0.23.1440.832" timestamp="1601521430734" />
-    <state width="1571" height="256" key="GridCell.Tab.0.left" timestamp="1601529897612">
+    <state width="1571" height="334" key="GridCell.Tab.0.center/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@0.23.1440.832" timestamp="1601606884459" />
+    <state width="1571" height="334" key="GridCell.Tab.0.center/667.-1057.1920.1057/0.23.1440.877/-1253.-1057.1920.1012@0.23.1440.877" timestamp="1601594845207" />
+    <state width="1398" height="342" key="GridCell.Tab.0.left" timestamp="1601924792699">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state width="1571" height="256" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1601529897612" />
+    <state width="1398" height="342" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1601924792699" />
     <state width="1398" height="307" key="GridCell.Tab.0.left/667.-1057.1920.1012/0.23.1440.877/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601371268192" />
     <state width="1571" height="353" key="GridCell.Tab.0.left/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601505860877" />
-    <state width="1571" height="256" key="GridCell.Tab.0.left/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@0.23.1440.832" timestamp="1601521430734" />
-    <state width="1571" height="256" key="GridCell.Tab.0.right" timestamp="1601529897613">
+    <state width="1571" height="334" key="GridCell.Tab.0.left/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@0.23.1440.832" timestamp="1601606884458" />
+    <state width="1571" height="334" key="GridCell.Tab.0.left/667.-1057.1920.1057/0.23.1440.877/-1253.-1057.1920.1012@0.23.1440.877" timestamp="1601594845207" />
+    <state width="1398" height="342" key="GridCell.Tab.0.right" timestamp="1601924792700">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state width="1571" height="256" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1601529897613" />
+    <state width="1398" height="342" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1601924792700" />
     <state width="1398" height="307" key="GridCell.Tab.0.right/667.-1057.1920.1012/0.23.1440.877/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601371268193" />
     <state width="1571" height="353" key="GridCell.Tab.0.right/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601505860878" />
-    <state width="1571" height="256" key="GridCell.Tab.0.right/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@0.23.1440.832" timestamp="1601521430735" />
+    <state width="1571" height="334" key="GridCell.Tab.0.right/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@0.23.1440.832" timestamp="1601606884460" />
+    <state width="1571" height="334" key="GridCell.Tab.0.right/667.-1057.1920.1057/0.23.1440.877/-1253.-1057.1920.1012@0.23.1440.877" timestamp="1601594845208" />
     <state x="-832" y="-894" key="SettingsEditor" timestamp="1601355856213">
       <screen x="-1253" y="-1057" width="1920" height="1057" />
     </state>
     <state x="-832" y="-894" key="SettingsEditor/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601355856213" />
-    <state x="-662" y="-701" key="com.intellij.ide.util.TipDialog" timestamp="1601355892106">
-      <screen x="-1253" y="-1057" width="1920" height="1057" />
+    <state x="443" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1601918903015">
+      <screen x="0" y="23" width="1440" height="832" />
     </state>
+    <state x="443" y="303" key="com.intellij.ide.util.TipDialog/0.23.1440.832@0.23.1440.832" timestamp="1601918903015" />
     <state x="-662" y="-701" key="com.intellij.ide.util.TipDialog/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601355892106" />
     <state x="-699" y="-936" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601397959944">
       <screen x="-1253" y="-1057" width="1920" height="1057" />
@@ -242,6 +252,18 @@
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="152" y="23" width="1416" height="832" key="dock-window-10/0.23.1440.832@0.23.1440.832" timestamp="1601523893206" />
+    <state x="0" y="23" width="966" height="832" key="dock-window-11" timestamp="1601607020095">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="0" y="23" width="966" height="832" key="dock-window-11/0.23.1440.832@0.23.1440.832" timestamp="1601607020095" />
+    <state x="-1253" y="-1057" width="966" height="1057" key="dock-window-11/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@0.23.1440.832" timestamp="1601576186468" />
+    <state x="-1253" y="-1057" width="966" height="1012" key="dock-window-11/667.-1057.1920.1057/0.23.1440.877/-1253.-1057.1920.1012@0.23.1440.877" timestamp="1601587362452" />
+    <state x="487" y="23" width="925" height="832" key="dock-window-12" timestamp="1601920108489">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="487" y="23" width="925" height="832" key="dock-window-12/0.23.1440.832@0.23.1440.832" timestamp="1601920108489" />
+    <state x="-286" y="-1057" width="925" height="1057" key="dock-window-12/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@0.23.1440.832" timestamp="1601576186469" />
+    <state x="-286" y="-1057" width="925" height="1012" key="dock-window-12/667.-1057.1920.1057/0.23.1440.877/-1253.-1057.1920.1012@0.23.1440.877" timestamp="1601587897896" />
     <state x="249" y="72" width="1091" height="744" key="dock-window-2" timestamp="1601371523744">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
@@ -266,36 +288,49 @@
     </state>
     <state x="0" y="23" width="774" height="619" key="dock-window-6/0.23.1440.832@0.23.1440.832" timestamp="1601501336399" />
     <state x="1284" y="-936" width="1331" height="852" key="dock-window-6/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601504840763" />
-    <state x="700" y="23" width="740" height="618" key="dock-window-7" timestamp="1601526993768">
+    <state x="596" y="107" width="775" height="747" key="dock-window-7" timestamp="1601605547326">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="700" y="23" width="740" height="618" key="dock-window-7/0.23.1440.832@0.23.1440.832" timestamp="1601526993768" />
     <state x="765" y="-959" width="958" height="747" key="dock-window-7/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601505849587" />
-    <state x="772" y="-988" width="958" height="747" key="dock-window-7/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@0.23.1440.832" timestamp="1601513819987" />
-    <state x="24" y="23" width="1416" height="832" key="dock-window-8" timestamp="1601521588781">
+    <state x="596" y="107" width="775" height="747" key="dock-window-7/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@0.23.1440.832" timestamp="1601605547326" />
+    <state x="446" y="69" width="958" height="747" key="dock-window-7/667.-1057.1920.1057/0.23.1440.877/-1253.-1057.1920.1012@0.23.1440.877" timestamp="1601588589693" />
+    <state x="97" y="189" width="1416" height="832" key="dock-window-8" timestamp="1601924814664">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state x="24" y="23" width="1416" height="832" key="dock-window-8/0.23.1440.832@0.23.1440.832" timestamp="1601521588781" />
+    <state x="97" y="189" width="1416" height="832" key="dock-window-8/0.23.1440.832@0.23.1440.832" timestamp="1601924814664" />
     <state x="-888" y="-1025" width="1416" height="987" key="dock-window-8/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601505837027" />
-    <state x="1387" y="-1020" width="1416" height="987" key="dock-window-8/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@0.23.1440.832" timestamp="1601515851157" />
+    <state x="1387" y="-1020" width="1416" height="987" key="dock-window-8/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@0.23.1440.832" timestamp="1601576023161" />
     <state x="172" y="23" width="1416" height="832" key="dock-window-9" timestamp="1601523702164">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="172" y="23" width="1416" height="832" key="dock-window-9/0.23.1440.832@0.23.1440.832" timestamp="1601523702164" />
     <state x="-1070" y="-1057" width="1416" height="987" key="dock-window-9/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@0.23.1440.832" timestamp="1601519145954" />
-    <state x="-615" y="-840" width="670" height="676" key="search.everywhere.popup" timestamp="1601505252744">
-      <screen x="-1253" y="-1057" width="1920" height="1057" />
+    <state x="479" y="194" width="670" height="533" key="search.everywhere.popup" timestamp="1601578750796">
+      <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="-615" y="-840" width="670" height="676" key="search.everywhere.popup/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@-1253.-1057.1920.1057" timestamp="1601505252744" />
+    <state x="479" y="194" width="670" height="533" key="search.everywhere.popup/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@0.23.1440.832" timestamp="1601578750796" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../SklearnHelper/Preprocess.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/cse_575_proj1_minst$CreateStats.coverage" NAME="CreateStats Coverage Results" MODIFIED="1601417342778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/cse_575_proj1_minst$SkLearnHelper.coverage" NAME="SkLearnHelper Coverage Results" MODIFIED="1601523861705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/cse_575_proj1_minst$ML.coverage" NAME="ML Coverage Results" MODIFIED="1601529897607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cse_575_proj1_minst$ML.coverage" NAME="ML Coverage Results" MODIFIED="1601924768802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/cse_575_proj1_minst$paramGrid.coverage" NAME="paramGrid Coverage Results" MODIFIED="1601521421047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/cse_575_proj1_minst$CreatePDFPredict.coverage" NAME="CreatePDFPredict Coverage Results" MODIFIED="1601403196979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/cse_575_proj1_minst$DataInit.coverage" NAME="DataInit Coverage Results" MODIFIED="1601422362840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/cse_575_proj1_minst$Preprocess.coverage" NAME="Preprocess Coverage Results" MODIFIED="1601529894793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/cse_575_proj1_minst$main.coverage" NAME="main Coverage Results" MODIFIED="1601422017068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cse_575_proj1_minst$Preprocess.coverage" NAME="Preprocess Coverage Results" MODIFIED="1601917837767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cse_575_proj1_minst$main.coverage" NAME="main Coverage Results" MODIFIED="1601924792692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

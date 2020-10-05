@@ -25,11 +25,5 @@ meanPredictions, stdPredictions = CreatePDFPredict.predictNum(meanPredArr, stdPr
 # The method based on using just the probability distribution isnt very effect with all the numbers
 # Therefore we will go about using the MINST dataset another way.
 
-from sklearn.preprocessing import StandardScaler
-
-
-
-
-d
 
 
